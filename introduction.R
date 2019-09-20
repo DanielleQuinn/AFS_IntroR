@@ -285,13 +285,13 @@ mydata$two
 mean(mydata$one)
 
 # ---- Importing Data ----
-# Goal: Import a .csv file
+# Goal: Import a .txt file
 
 ## Step One: Tell R where to look
 setwd("C:/Users/Danielle/Desktop/AFS_IntroR")
 
 ## Step Two: Load the data
-species <- read.csv("species.csv")
+species <- read.delim("species.txt")
 species
 
 # What class is the object called species?
