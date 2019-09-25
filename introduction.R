@@ -40,9 +40,9 @@
 5 == 5 | 7 > 10
 
 ## Complete each conditional statement so that it returns TRUE
-3 * 5 ___ 15
-1/2 ___ 1/4
-30 ___ 10 * 3 & 40 * 10 ___ 405
+3 * 5 == 15
+1/2 != 1/4
+30 == 10 * 3 & 40 * 10 < 405
 
 # ---- Functions ----
 # Functions "do things"
