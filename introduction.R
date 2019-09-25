@@ -162,10 +162,10 @@ c <- a + b
 b <- 50
 c
 
-# (a) 115
-# (b) 25
-# (c) 150
-# (d) 60
+# (a) 115 - no, R is case sensitive
+# (b) 25 - correct
+# (c) 150 - no, R is case sensitive and object values don't update when other objects are updated
+# (d) 60 - no, object values don't update when other objects are updated
 
 # ---- Data Classes ----
 # Numeric
