@@ -251,7 +251,7 @@ aboutme
 
 # ---- Characteristics of Vectors ----
 # Vectors are "atomic": they can only contain one class of data
-class(numbers) # numeric
+class(mynumbers) # numeric
 class(fruit) # character
 
 # Implication: You can't mix characters and numbers
