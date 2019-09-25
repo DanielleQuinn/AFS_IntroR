@@ -306,9 +306,6 @@ data_tb <- data_tb %>%
 glimpse(data_tb)
 
 # ---- Dealing with dates and times with {lubridate} ----
-
-# use {lubridate}
-
 # ymd() : takes a string representing year-month-day and converts it to a date
 test_value <- "1999-11-21"
 test_value
